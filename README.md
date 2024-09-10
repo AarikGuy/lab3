@@ -15,10 +15,5 @@ permission from your instructor.
 
 A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Used this cite to figure out how to make a list horizontal: https://www.shecodes.io/athena/5803-how-to-make-a-list-in-css-horizontal
+- Wanted to find a fancy font for the webpage: https://www.w3schools.com/howto/tryit.asp?font=Pacifico

@@ -1,21 +1,23 @@
-body{
-    margin: auto;
+body {
+    margin: 0; 
+    padding: 0;
 }
 
-h1{
-    background-color: rgb(74, 226, 74);
-    padding: 40px;
+h1 {
+    background-color: rgb(74, 226, 74); 
+    padding: 80px 20px; 
     font-size: 60px;
-    text-align: center;
+    font-family: 'Pacifico', cursive;
+    text-align: center; 
+    margin: 0;
 }
 
 .top-right-image {
     position: absolute;
-    top: 80px;
-    right: 0;
-    width: 50px; 
+    top: 105px;
+    right: 10px; 
+    width: 60px; 
     height: auto;
-    margin: 10px;
 }
 
 ul {
@@ -23,9 +25,10 @@ ul {
     list-style: none; 
     padding: 0;
     margin: 0;
-    background-color: rgb(50, 196, 50); 
+    background-color: rgb(50, 196, 50);
     display: flex; 
     justify-content: center; 
+    padding: 15px 0; 
 }
 
 ul li {
