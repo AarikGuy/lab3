@@ -1,4 +1,9 @@
+body{
+    margin: auto;
+}
+
 h1{
-    background-color: green;
+    background-color: rgb(50, 196, 50);
+    padding: 20px;
     text-align: center;
 }
