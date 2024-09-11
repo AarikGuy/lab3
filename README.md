@@ -17,3 +17,4 @@ A simple bulleted list below is sufficient. For example:
 
 - Used this cite to figure out how to make a list horizontal: https://www.shecodes.io/athena/5803-how-to-make-a-list-in-css-horizontal
 - Wanted to find a fancy font for the webpage: https://www.w3schools.com/howto/tryit.asp?font=Pacifico
+- Used this to get text shadow: https://www.shecodes.io/athena/22835-how-to-add-a-shadow-to-text-with-css

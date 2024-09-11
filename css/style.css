@@ -4,6 +4,7 @@ body {
 }
 
 h1 {
+    text-shadow: 2px 4px 5px rgb(41, 28, 28);
     background-color: rgb(74, 226, 74); 
     padding: 80px 20px; 
     font-size: 60px;
@@ -21,7 +22,7 @@ h1 {
 }
 
 ul {
-    font-size: 25px;
+    font-size: 30px;
     list-style: none; 
     padding: 0;
     margin: 0;
@@ -40,3 +41,32 @@ ul li a, ul li span {
     padding: 10px 15px; 
     display: inline-block;
 }
+
+.image-sidebar {
+    background-color: rgb(74, 226, 74);
+    position: absolute; 
+    top: 410px; 
+    right: 20px; 
+    width: 300px; 
+    padding: 10px; 
+}
+
+.image-sidebar h2 {
+    font-size: 40px;
+    margin: 0; 
+    padding-bottom: 10px;
+}
+
+.image-sidebar .grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px; 
+}
+
+.image-sidebar .grid-container img {
+    width: 100%; 
+    height: auto; 
+    display: block;
+}
+
+
