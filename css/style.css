@@ -24,7 +24,6 @@ h1 {
 ul {
     font-size: 30px;
     list-style: none; 
-    /* padding: 10px; */
     height: 60px;
     margin: 0;
     background-color: rgb(50, 196, 50);
@@ -40,7 +39,6 @@ ul li {
 ul li a, ul li span {
     text-decoration: none; 
     padding: 0px 20px; 
-    /* display: inline-block; */
 }
 
 .image-sidebar {
